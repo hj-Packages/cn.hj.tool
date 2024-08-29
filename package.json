@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/hj-Packages/cn.hj.tool.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@hj-Packages"
+  },
   "keywords": [
     "unity"
   ],
