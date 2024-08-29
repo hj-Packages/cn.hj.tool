@@ -1,19 +1,18 @@
 {
   "name": "cn.hj.tool",
   "version": "1.0.0",
-  "description": "upm发布测试",
+  "description": "unity",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js" 
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hj-Packages/cn.hj.tool.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@hj-Packages"
-  },
+  "keywords": [
+    "unity"
+  ],
   "author": "hj9944",
   "license": "ISC",
   "bugs": {
