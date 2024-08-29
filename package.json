@@ -1,0 +1,23 @@
+{
+  "name": "cn.hj.tool",
+  "version": "1.0.0",
+  "description": "upm发布测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hj-Packages/cn.hj.tool.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ET-Packages"
+  },
+  "author": "hj9944",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hj-Packages/cn.hj.tool/issues"
+  },
+  "homepage": "https://github.com/hj-Packages/cn.hj.tool#readme"
+}
