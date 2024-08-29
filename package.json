@@ -12,7 +12,7 @@
     "url": "git+https://github.com/hj-Packages/cn.hj.tool.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ET-Packages"
+    "registry": "https://npm.pkg.github.com/@hj-Packages"
   },
   "author": "hj9944",
   "license": "ISC",
